@@ -1,0 +1,25 @@
+{
+  "name": "PortafolioOswa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootswatch": "^4.6.0",
+    "classnames": "^2.2.6",
+    "firebase-functions": "^3.13.2",
+    "next": "^10.0.9",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "^4.0.3",
+    "reactstrap": "^8.9.0"
+  }
+}
